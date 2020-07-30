@@ -3,6 +3,7 @@
 
 Feature List:  
 Character selection screen: 1) Mage and 2) Warrior.  
+Mage and Warrior have separate models and animations.  
 Mage can cast ranged spells and projectiles  
 Warrior swings a sword to deal damage.  
 Enemies walk around, and when character is within gaze, they will move to character.  

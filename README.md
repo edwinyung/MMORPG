@@ -1,5 +1,7 @@
 # RPGTemplate
-3D Third Person RPG in Unreal Engine, implemented game logic with Blueprints.  
+3D Third Person RPG in Unreal Engine, implemented game logic with Blueprints. 
+
+Hour long demo here: https://www.youtube.com/watch?v=gjPGZd8SpuY&feature=youtu.be&t=900
 
 Feature List:  
 Character selection screen: 1) Mage and 2) Warrior.  
